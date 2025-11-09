@@ -38,9 +38,7 @@ This project provides an analysis of Google search trends for the keyword "Cloud
 - `matplotlib`: For creating visualizations.
 - `time`: Built-in Python module for delays.
 
-## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details (if applicable).
 
 ## Contributing
 
